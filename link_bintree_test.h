@@ -12,7 +12,7 @@ void test_link_bintree(void) {
   f.l = 'f';
   g.l = 'g';
   h.l = 'h';
-  
+
   a.left = &b;
   a.right = &c;
   a.next = NULL;
