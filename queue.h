@@ -11,16 +11,12 @@ void print_node(node* head) {
   printf("%c: ", head->l);
 
   if (head->left != NULL)
-  {
     printf("L-> %c ", head->left->l);
-  }
   else 
     printf("L-> NULL ");
 
   if (head->right != NULL)
-  {
     printf("R-> %c ", head->right->l);
-  }
   else 
     printf("R-> NULL ");
 
