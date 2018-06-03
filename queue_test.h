@@ -1,4 +1,4 @@
-#include <queue.h>
+#include "queue.h"
 
 void test_linked_queue(void) {
   printf("Creating tree: \n");
