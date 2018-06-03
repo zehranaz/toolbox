@@ -1,7 +1,7 @@
-#include "queue_test.h"
+#include "link_bintree_test.h"
 
 int main(void)
 {
-    test_linked_queue();
+    test_link_bintree();
     return 0;
 }

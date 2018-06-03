@@ -1,6 +1,6 @@
-#include "queue.h"
+#include "link_bintree.h"
 
-void test_linked_queue(void) {
+void test_link_bintree(void) {
   printf("Creating tree: \n");
   
   node a, b, c, d, e, f, g, h;
